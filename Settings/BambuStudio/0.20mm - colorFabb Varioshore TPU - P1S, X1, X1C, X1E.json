@@ -2,7 +2,6 @@
     "avoid_crossing_wall_includes_support": "1",
     "ensure_vertical_shell_thickness": "disabled",
     "from": "User",
-    "infill_combination": "1",
     "inherits": "0.20mm Standard @BBL X1C",
     "max_travel_detour_distance": "100%",
     "name": "0.20mm - colorFabb Varioshore TPU",
@@ -21,3 +20,4 @@
     "wall_generator": "arachne",
     "wall_sequence": "outer wall/inner wall"
 }
+
