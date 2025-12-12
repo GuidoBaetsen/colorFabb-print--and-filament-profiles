@@ -124,6 +124,8 @@
       "Settings/BambuStudio/0.20mm - colorFabb Varioshore TPU - P1S, X1, X1C, X1E.json",
       "Settings/BambuStudio/0.20mm - colorFabb Varioshore TPU - P2S.json"
     ],
-    "PrusaSlicer": []
+    "PrusaSlicer": [
+      "Settings/PrusaSlicer/0.20mm - colorFabb Varioshore TPU - Prusa.ini"
+    ]
   }
 }
